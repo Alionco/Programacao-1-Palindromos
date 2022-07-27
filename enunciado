@@ -1,0 +1,8 @@
+1- Dada uma string lida do teclado, imprimir SIM caso seja palíndromo e NÃO em caso contrário. Seu programa deve fazer a alocação dinâmica
+da string de entrada.
+ a) implementar iterativamente
+ b) implementar recursivamente
+
+2- Dadas duas matrizes NxM e MxP de números inteiros, lidas a partir da entrada padrão, implementar
+um programa que imprima na saída padrão a multiplicação delas, caso seja possível,
+senão imprimir NÃO É POSSÍVEL. Seu programa deve alocar dinamicamente estas matrizes.
